@@ -1,0 +1,48 @@
+{
+  "name": "basic-structure-project-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/proyectosbeta/basic-structure-project-nodejs.git",
+  "author": "josego <josego85@gmail.com>",
+  "license": "GPLv3",
+  "private": true,
+  "scripts": {
+    "start": "nodemon --exec babel-node server.js",
+    "dev": "webpack --mode development --progress",
+    "build": "webpack --mode production --progress"
+  },
+  "bugs": {
+    "url": "https://github.com/proyectosbeta/basic-structure-project-nodejs/issues"
+  },
+  "homepage": "https://github.com/proyectosbeta/basic-structure-project-nodejs/blob/main/README.md",
+  "dependencies": {
+    "axios": "0.21.1",
+    "cors": "2.8.5",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "express-locale": "2.0.0",
+    "express-validator": "6.10.0",
+    "helmet": "4.4.1",
+    "node-polyglot": "2.4.0",
+    "object.fromentries": "2.0.4",
+    "path": "0.12.7",
+    "request": "2.88.2",
+    "validator": "13.5.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.13.10",
+    "@babel/node": "7.13.12",
+    "@babel/plugin-proposal-class-properties": "7.13.0",
+    "@babel/plugin-transform-runtime": "7.13.10",
+    "@babel/preset-env": "7.13.12",
+    "babel-loader": "8.2.2",
+    "clean-webpack-plugin": "3.0.0",
+    "dotenv-webpack": "7.0.2",
+    "nodemon": "2.0.7",
+    "swagger-jsdoc": "6.1.0",
+    "swagger-ui-express": "4.1.6",
+    "webpack": "5.27.2",
+    "webpack-cli": "4.5.0",
+    "webpack-node-externals": "2.5.2"
+  }
+}
