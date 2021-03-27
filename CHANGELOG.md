@@ -2,4 +2,5 @@
 
 - Add basic structure project in NodeJS.
 - Update Readme file.
-- Update Changelog file.
+- Add Changelog file.
+- Add Todo file.
