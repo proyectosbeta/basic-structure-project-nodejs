@@ -1,3 +1,7 @@
+# v0.2.0
+
+- Add testing.
+
 # v0.1.0
 
 - Add basic structure project in NodeJS.

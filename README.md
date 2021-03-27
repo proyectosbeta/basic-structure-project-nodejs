@@ -24,6 +24,25 @@ yarn start
 # Http code
 - `200 Request` - ok
 
+## Testing
+
+### With jest
+
+- [Oficial site](https://jestjs.io/)
+- [Documentation](https://jestjs.io/docs/en/getting-started) 
+- [API](https://jestjs.io/docs/en/api)
+- [Expect](https://jestjs.io/docs/en/expect)
+
+```
+yarn test
+```
+
+or
+
+```
+yarn --watchAll
+```
+
 ## Documentation
 
 ### Access
