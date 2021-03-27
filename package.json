@@ -1,6 +1,6 @@
 {
   "name": "basic-structure-project-nodejs",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "repository": "https://github.com/proyectosbeta/basic-structure-project-nodejs.git",
   "author": "josego <josego85@gmail.com>",

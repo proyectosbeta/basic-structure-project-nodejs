@@ -3,7 +3,7 @@ const swagger = {
     info: {
       title: "Basic Structure Project in NodeJS",
       description: "The API REST Basic Structure Project in NodeJS",
-      version: "0.0.1",
+      version: "0.1.0",
       contact: {
         email: "hello@proyectosbeta.net",
       },
