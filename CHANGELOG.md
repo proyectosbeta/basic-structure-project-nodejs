@@ -1,3 +1,7 @@
+# v0.3.0
+
+- Improvements with cors. 
+
 # v0.2.0
 
 - Add testing.
